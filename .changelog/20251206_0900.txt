@@ -1,0 +1,3 @@
+fix
+Fix incorrect policy evaluation when using scoped policies with wildcard resource matches
+https://github.com/cerbos/cerbos/issues/2187
