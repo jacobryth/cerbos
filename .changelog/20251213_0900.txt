@@ -1,0 +1,2 @@
+fix: resolve race condition in policy store concurrent reads
+Fixes an issue where concurrent read operations on the policy store could result in inconsistent policy evaluations under high load.
