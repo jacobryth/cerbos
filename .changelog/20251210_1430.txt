@@ -1,0 +1,3 @@
+feat
+add support for scoped policy evaluation with wildcard resource matching
+Enhances the policy evaluation engine to support wildcard patterns in resource identifiers, allowing more flexible policy definitions for scoped resources.
