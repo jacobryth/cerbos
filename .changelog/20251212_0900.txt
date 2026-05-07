@@ -1,0 +1,3 @@
+fix: resolve race condition in policy store cache invalidation
+Fixes an issue where concurrent policy updates could lead to stale cache entries being served.
+Closes #1247
