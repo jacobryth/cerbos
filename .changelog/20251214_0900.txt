@@ -1,0 +1,2 @@
+fix: resolve race condition in policy store cache invalidation
+fix: ensure concurrent policy updates are handled safely
