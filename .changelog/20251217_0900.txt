@@ -1,0 +1,2 @@
+fix: resolve race condition in policy compilation cache
+Fixes concurrent read/write access when multiple goroutines attempt to compile overlapping policy sets simultaneously.
