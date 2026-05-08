@@ -1,0 +1,2 @@
+fix: correct policy evaluation for nested resource conditions
+Fixes incorrect evaluation order when multiple derived roles are applied to nested resource conditions.
