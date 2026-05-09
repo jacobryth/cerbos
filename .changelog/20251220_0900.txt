@@ -1,0 +1,2 @@
+feat: add support for wildcard resource matching in policy evaluation
+fix: resolve race condition in concurrent policy store updates
